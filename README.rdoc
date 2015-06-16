@@ -1,28 +1,23 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a 2-sided marketplace created following the course at [link](https://stuk.io/en/courses/2-sided-marketplace).
 
-Things you may want to cover:
+Goals covered in this course:
 
-* Ruby version
+* Payments
+* State Machines
+* Stripe SDK
+* Environment Variables
+* Friendly URLs
+* Amazon S3 SDK
+* Authorisations
+* File Attachments
+* Validations
 
-* System dependencies
+**WORK** (c) by **Wes Chamness**
 
-* Configuration
+**WORK** is licensed under a
+Creative Commons Attribution-NonCommercial 4.0 International License.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-nc/4.0/>.
