@@ -5,7 +5,7 @@ class BooksController < ApplicationController
   # GET /books
   # GET /books.json
   def index
-    @books = Book.where(availbility: true)
+    @books = Book.where(availability: true)
   end
 
   # GET /books/1

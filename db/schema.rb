@@ -11,16 +11,16 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150623125011) do
+ActiveRecord::Schema.define(version: 20150624131722) do
 
   create_table "books", force: :cascade do |t|
     t.string   "name"
     t.string   "author"
     t.text     "description"
     t.integer  "price"
-    t.boolean  "availbility", default: true
-    t.datetime "created_at",                 null: false
-    t.datetime "updated_at",                 null: false
+    t.boolean  "availability", default: true
+    t.datetime "created_at",                  null: false
+    t.datetime "updated_at",                  null: false
     t.integer  "user_id"
   end
 
