@@ -16,6 +16,7 @@ class TransactionsController < ApplicationController
       @error = e
       redirect_to book_path(book), notice: @error
   end
+end
 
   def pickup
     @sale = Sale.find_by!(guid: params[:guid])
