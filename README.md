@@ -1,6 +1,6 @@
 == README
 
-This is a 2-sided marketplace created following the course at [link](https://stuk.io/en/courses/2-sided-marketplace).
+This is a 2-sided marketplace created following the course at [Codeplace.com](https://www.codeplace.com/stuk-io/2-sided-marketplace/).
 
 Goals covered in this course:
 
